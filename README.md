@@ -1,4 +1,4 @@
-#Image Gallery/Sharing/Forum App#
+#Image Gallery App
 
 Hey, I'm Melvin and this was little app I made for an assignment in my cloud computing class. The lecturer told my class to create an app using any cloud system, so I decided to use firebase create an Image Forum app that stores images and handles image uploads using cloud storage. 
 
